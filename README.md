@@ -2,7 +2,7 @@
 
 **Hide any file inside an image** using **Least Significant Bit (LSB)** steganography, with **encryption**, **compression**, and **password‑based random pixel order**.
 
-> ✅ Works on **Kali Linux** (full GUI), **Termux** (Android CLI), **iOS iSH** (CLI), and any desktop Linux/macOS/Windows.
+> ✅ Works on **Kali Linux** (full GUI), **Termux** (Android CLI), **iOS iSH** (CLI), **Windows**, **macOS**, and any Linux desktop.
 
 ---
 
@@ -21,10 +21,24 @@
 
 ---
 
-## 📦 Installation
+## 📦 Full Installation Guide (by platform)
 
-### 1. Install Python 3 and pip
+### 1. Kali Linux / Debian / Ubuntu (Desktop)
 
-- **Kali Linux / Debian / Ubuntu**  
-  ```bash
-  sudo apt update && sudo apt install python3 python3-pip python3-tk
+```bash
+# Update system
+sudo apt update && sudo apt upgrade -y
+
+# Install Python 3, pip, and Tkinter (for GUI)
+sudo apt install python3 python3-pip python3-tk -y
+
+# Install required Python libraries
+pip3 install pillow numpy cryptography
+
+# Verify installation
+python3 -c "import PIL, numpy, cryptography; print('OK')"
+
+# Run the tool
+python3 stego_crossplatform.py
+
+
