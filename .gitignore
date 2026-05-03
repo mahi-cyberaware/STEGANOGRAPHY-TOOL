@@ -1,0 +1,8 @@
+pycache/
+*.pyc
+.pyo
+venv/
+env/
+.DS_Store
+Thumbs.db
+encoded_.png
