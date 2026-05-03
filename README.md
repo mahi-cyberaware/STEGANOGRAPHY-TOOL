@@ -21,22 +21,16 @@
 
 ---
 
-## 📦 Full Installation Guide (by platform)
+## 📦 Quick Installation (One‑Command)
 
-### 1. Kali Linux / Debian / Ubuntu (Desktop)
+### Recommended: use the auto‑install script
 
 ```bash
-# Update system
-sudo apt update && sudo apt upgrade -y
-
-# Install Python 3, pip, and Tkinter (for GUI)
-sudo apt install python3 python3-pip python3-tk -y
-
-# Install required Python libraries
-pip3 install pillow numpy cryptography
-
-# Verify installation
-python3 -c "import PIL, numpy, cryptography; print('OK')"
+git clone https://github.com/mahi-cyberaware/STEGANOGRAPHY-TOOL.git
+cd STEGANOGRAPHY-TOOL
+chmod +x install.sh
+./install.sh
+'''
 
 # Run the tool
 python3 stego_crossplatform.py
