@@ -1,22 +1,11 @@
-![Python](https://img.shields.io/badge/Python-3.8+-brightgreen?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.8+-brightgreen?style=flat-square)
+![License](https://img.shields.io/github/license/mahi-cyberaware/STEGANOGRAPHY-TOOL?style=flat-square)
+![Stars](https://img.shields.io/github/stars/mahi-cyberaware/STEGANOGRAPHY-TOOL?style=flat-square)
+![Forks](https://img.shields.io/github/forks/mahi-cyberaware/STEGANOGRAPHY-TOOL?style=flat-square)
 
-![Platform](https://img.shields.io/badge/Platform-Kali%20Linux%20%7C%20Termux%20%7C%20Windows%20%7C%20macOS-blue?style=for-the-badge)
-
-![License](https://img.shields.io/github/license/mahi-cyberaware/STEGANOGRAPHY-TOOL?style=for-the-badge)
-
-![Stars](https://img.shields.io/github/stars/mahi-cyberaware/STEGANOGRAPHY-TOOL?style=for-the-badge)
-
-![Forks](https://img.shields.io/github/forks/mahi-cyberaware/STEGANOGRAPHY-TOOL?style=for-the-badge)
-
-![Repo Size](https://img.shields.io/github/repo-size/mahi-cyberaware/STEGANOGRAPHY-TOOL?style=for-the-badge)
-
-![Last Commit](https://img.shields.io/github/last-commit/mahi-cyberaware/STEGANOGRAPHY-TOOL?style=for-the-badge)
-
-![Issues](https://img.shields.io/github/issues/mahi-cyberaware/STEGANOGRAPHY-TOOL?style=for-the-badge)
-
-![Educational Project](https://img.shields.io/badge/Purpose-Educational-orange?style=for-the-badge)
-
-![Security Research](https://img.shields.io/badge/Security-Research-red?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Kali%20Linux%20%7C%20Termux%20%7C%20Windows%20%7C%20macOS-blue?style=flat-square)
+![Purpose](https://img.shields.io/badge/Purpose-Educational-orange?style=flat-square)
+![Security](https://img.shields.io/badge/Security-Research-red?style=flat-square)
 
 # 🔒 Cross‑Platform LSB Steganography Tool
 
