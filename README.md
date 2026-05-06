@@ -13,7 +13,6 @@ steganography techniques.
 ![Purpose](https://img.shields.io/badge/Purpose-Educational-orange?style=flat-square)
 ![Security](https://img.shields.io/badge/Security-Research-red?style=flat-square)
 
-Educational steganography research tool demonstrating how hidden data can exist inside digital images using Least Significant Bit (LSB) techniques.
 
 **Hide any file inside an image** using **Least Significant Bit (LSB)** steganography, with **encryption**, **compression**, and **password‑based random pixel order**.
 
