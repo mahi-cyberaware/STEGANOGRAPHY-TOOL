@@ -16,6 +16,20 @@ steganography techniques.
 
 **Hide any file inside an image** using **Least Significant Bit (LSB)** steganography, with **encryption**, **compression**, and **password‑based random pixel order**.
 
+# Cross-Platform LSB Steganography Tool
+
+> ⚠️ Educational Use Only
+>
+> This project is intended strictly for cybersecurity education,
+> digital forensics awareness, and authorized research environments.
+>
+> Do not use this software for illegal activities or unauthorized access.
+
+Designed for:
+- students
+- cybersecurity learners
+- digital forensics awareness
+- ethical security research
 > ✅ Works on **Kali Linux** (full GUI), **Termux** (Android CLI), **iOS iSH** (CLI), **Windows**, **macOS**, and any Linux desktop.
 
 ---
