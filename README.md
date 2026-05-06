@@ -1,3 +1,9 @@
+# 🔒 Cross-Platform LSB Steganography Tool
+
+Educational cybersecurity project demonstrating how hidden data can
+exist inside digital images using Least Significant Bit (LSB)
+steganography techniques.
+
 ![Python](https://img.shields.io/badge/Python-3.8+-brightgreen?style=flat-square)
 ![License](https://img.shields.io/github/license/mahi-cyberaware/STEGANOGRAPHY-TOOL?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/mahi-cyberaware/STEGANOGRAPHY-TOOL?style=flat-square)
@@ -7,7 +13,7 @@
 ![Purpose](https://img.shields.io/badge/Purpose-Educational-orange?style=flat-square)
 ![Security](https://img.shields.io/badge/Security-Research-red?style=flat-square)
 
-# 🔒 Cross‑Platform LSB Steganography Tool
+Educational steganography research tool demonstrating how hidden data can exist inside digital images using Least Significant Bit (LSB) techniques.
 
 **Hide any file inside an image** using **Least Significant Bit (LSB)** steganography, with **encryption**, **compression**, and **password‑based random pixel order**.
 
